@@ -1,7 +1,7 @@
 ## Sobre mí
 
 ¡Hola! 👋 Soy Gabriel, desarrollador apasionado por la programación y la tecnología.  
-Me especializo en **JavaScript** y **C#**, con interés en proyectos web, bases de datos y soluciones creativas de software.  
+  
 
 Siempre aprendiendo, compartiendo código abierto y buscando nuevas formas de mejorar mis habilidades. 💻✨
 
